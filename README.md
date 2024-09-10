@@ -1,4 +1,4 @@
-👋 Hi, I'm Srishti Latwal!
+👋 Hi, I'm Srishti Latwal! data scientist.jpg
 
 🌟 Passionate Software Developer with expertise in Javascript, Core Java, and C++.
 🚀 Skilled in Frontend technologies including HTML, CSS, Bootstrap, and React.
